@@ -1,3 +1,3 @@
 C:\Users\Dima\Desktop\Kursovaya1.rar
 Kursovaya1.rar - WinRAR
-path = "C:\"
+path = "C:\path"
