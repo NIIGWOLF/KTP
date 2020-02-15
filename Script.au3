@@ -16,9 +16,6 @@ Func _fun1()
 	  $maxFD = _Split($sData,$minFD&"-",@CRLF);max физический урон
 	  ;TrayTip("DPS", (($minFD+$maxFD)/2*$SA),0)
 	  $Mpos = MouseGetPos()
-	  Tooltip("DPS: "& (($minFD+$maxFD)/2*$SA),$Mpos[0],$Mpos[1])
-	  Sleep(1000)
-	  Tooltip("")
    EndIf
 EndFunc
 
