@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1e933af-9814-4407-9aa2-701b2d2a544a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Zadachi/task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Zadachi/task5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task5.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,32 +81,33 @@
     <session id="-995029115">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="9118" />
+          <entry key="java" value="12887" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9118" />
+          <entry key="JAVA" value="12887" />
         </counts>
       </usages-collector>
     </session>
@@ -135,31 +138,39 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/task3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/task4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="34" column="50" lean-forward="true" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+            <state relative-caret-position="816">
+              <caret line="52" column="61" selection-start-line="51" selection-start-column="8" selection-end-line="52" selection-end-column="61" />
+              <folding>
+                <element signature="e#732#733#0" expanded="true" />
+                <element signature="e#799#800#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/task4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/task5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1720">
-              <caret line="170" column="25" lean-forward="true" selection-start-line="170" selection-start-column="25" selection-end-line="170" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#4228#4239#0" expanded="true" />
-                <element signature="e#4271#4282#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="39" lean-forward="true" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="587">
+              <caret line="198" column="7" selection-start-line="198" selection-start-column="7" selection-end-line="198" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -183,6 +194,7 @@
         <option value="$PROJECT_DIR$/src/task2.java" />
         <option value="$PROJECT_DIR$/src/task3.java" />
         <option value="$PROJECT_DIR$/src/task4.java" />
+        <option value="$PROJECT_DIR$/src/task6.java" />
         <option value="$PROJECT_DIR$/src/task5.java" />
       </list>
     </option>
@@ -198,8 +210,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,10 +226,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587389592571" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587567882351" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -234,14 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.task5">
-    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task1" />
-      <module name="Zadachi" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.task6">
     <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task2" />
       <module name="Zadachi" />
@@ -270,20 +275,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task6" />
+      <module name="Zadachi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.task1" />
       <item itemvalue="Application.task2" />
       <item itemvalue="Application.task3" />
       <item itemvalue="Application.task4" />
       <item itemvalue="Application.task5" />
+      <item itemvalue="Application.task6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task6" />
         <item itemvalue="Application.task5" />
         <item itemvalue="Application.task4" />
         <item itemvalue="Application.task3" />
         <item itemvalue="Application.task2" />
-        <item itemvalue="Application.task1" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +315,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49865228" weight="0.23544973" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49865228" weight="0.23521851" />
       <window_info id="Structure" order="1" sideWeight="0.5013477" side_tool="true" weight="0.23544973" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -312,15 +324,15 @@
       <window_info id="Favorites" order="6" sideWeight="0.5013477" side_tool="true" weight="0.23544973" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38948786" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4010914" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21293801" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39427012" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32605729" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32469305" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -334,21 +346,16 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/task5.java</url>
-          <line>270</line>
-          <properties />
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Zadachi.iml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/task1.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -366,38 +373,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/task3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
+        <state relative-caret-position="816">
+          <caret line="52" column="61" selection-start-line="51" selection-start-column="8" selection-end-line="52" selection-end-column="61" />
           <folding>
-            <element signature="e#2871#2872#0" expanded="true" />
-            <element signature="e#2896#2897#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/task4.java">
+    <entry file="file://$PROJECT_DIR$/src/task6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="34" column="50" lean-forward="true" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+        <state relative-caret-position="587">
+          <caret line="198" column="7" selection-start-line="198" selection-start-column="7" selection-end-line="198" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/task5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1720">
-          <caret line="170" column="25" lean-forward="true" selection-start-line="170" selection-start-column="25" selection-end-line="170" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4228#4239#0" expanded="true" />
-            <element signature="e#4271#4282#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="39" lean-forward="true" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="53" />
         </state>
       </provider>
     </entry>

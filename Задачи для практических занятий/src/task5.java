@@ -1,5 +1,4 @@
 import com.sun.org.apache.xerces.internal.impl.dv.util.HexBin;
-
 import java.nio.charset.StandardCharsets;
 import java.security.NoSuchAlgorithmException;
 import java.security.MessageDigest;
@@ -108,22 +107,15 @@ public class task5 {
      * что и первое слово, включая первое слово. */
     public static String[] sameVowelGroup(String[] str){
         List<String> list=new ArrayList<String>();
-        Set<Character> firstStr = new HashSet<Character>();
-        Set<Character> nextStr = new HashSet<Character>();
-
-        for(char c: str[0].toCharArray()){
-            if (c=='a' || c=='e' || c=='i' || c=='y' || c=='o' || c=='u')
-                firstStr.add(c);
-        }
         list.add(str[0]);
+        String glas="aeiyou";
 
         for(int i=1;i<str.length;i++){
-            for(char c: str[i].toCharArray()){
-                if (c=='a' || c=='e' || c=='i' || c=='y' || c=='o' || c=='u')
-                    nextStr.add(c);
+            boolean flag=true;
+            for(char c: glas.toCharArray()){
+                if (str[0].contains(String.valueOf(c))!=str[i].contains(String.valueOf(c))) flag=false;
             }
-            if (firstStr.equals(nextStr)) list.add(str[i]);
-            nextStr.clear();
+            if (flag) list.add(str[i]);
         }
         return list.toArray(new String[list.size()]);
     }
@@ -271,7 +263,7 @@ public class task5 {
                 out+=s+" ";
             else out+=String.valueOf(s.charAt(0)).toUpperCase()+s.substring(1)+" ";
         }
-        return out.trim();      /**Почти спойлеры схватил, хорошо, что досмотрел "Игру престолов" 3 дня назад*/
+        return out.trim();      /**Почти спойлеры схватил, хорошо, что досмотрел "Игру престолов" 2 дня назад*/
     }
 
     /**10. Напишите функцию, которая принимает целое число n и возвращает "недопустимое", если n не является
@@ -300,7 +292,7 @@ public class task5 {
     }
 
     public static void main(String[] args) throws NoSuchAlgorithmException {
-        String[] str={"toe", "celot", "maniac"};
-        System.out.println(hexLattice(37));
+        String[] str={"hoops", "chuff", "bot", "bottom"};
+        System.out.println(sameVowelGroup(str));
     }
 }
