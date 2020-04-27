@@ -3,7 +3,7 @@ import java.awt.image.*;
 import java.awt.*;
 
 public class JImageDisplay extends JComponent{
-    private BufferedImage image;    //изображение
+    public BufferedImage image;    //изображение
 
     public JImageDisplay(int width, int height) {
         image = new BufferedImage(width, height, BufferedImage.TYPE_INT_RGB);
