@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0mD:\FP\ScalaTest\project\sub-project-2\src\test\scala\TestSequence.scala:22:11: comparing values of types Boolean and Seq[(Int, Int)] using `==` will always yield false[0m
+[0m[[0m[33mwarn[0m] [0m[0m    assert(p == Seq((1,3), (2,4)))[0m
+[0m[[0m[33mwarn[0m] [0m[0m          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

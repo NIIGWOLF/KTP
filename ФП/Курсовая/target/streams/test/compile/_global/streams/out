@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0mD:\FP\ScalaTest\src\test\scala\simpletest\HelloTest.scala:3:12: object scalatest is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.scalatest.FunSuite[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\FP\ScalaTest\src\test\scala\simpletest\HelloTest.scala:5:26: not found: type FunSuite[0m
+[0m[[0m[31merror[0m] [0m[0mclass HelloTests extends FunSuite {[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\FP\ScalaTest\src\test\scala\simpletest\HelloTest.scala:8:1: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0mtest("the name is set correctly in constructor"){[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\FP\ScalaTest\src\test\scala\simpletest\HelloTest.scala:14:1: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0mtest("a Person's name can be changed"){[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m

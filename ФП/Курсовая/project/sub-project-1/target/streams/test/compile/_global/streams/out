@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0mD:\FP\ScalaTest\project\sub-project-1\src\test\scala\TestCompositions.scala:50:11: exercise2.Option[String] and String are unrelated: they will most likely never compare equal[0m
+[0m[[0m[33mwarn[0m] [0m[0m    assert(p(Some(123)) == "1")[0m
+[0m[[0m[33mwarn[0m] [0m[0m          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

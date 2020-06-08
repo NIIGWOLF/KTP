@@ -1,0 +1,8 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestSequence:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testLastElement[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testZip[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testForAll: false[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testForAll: true[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testPalindrom: false[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testPalindrom: true[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testFlatMap: true[0m[0m

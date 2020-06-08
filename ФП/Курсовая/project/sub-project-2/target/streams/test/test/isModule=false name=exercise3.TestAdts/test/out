@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestAdts:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testGetNth: testGetNth(List(1, 2),1) = 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testDouble: 2 = 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIsEven: 4 = Right(4)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIsEven: 3 = Left(Negativ)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testSafeDivide: 3/3 = Right(1)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testSafeDivide: 3/0 = Left(Error)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testGoodOldJava: 123 = Success(123)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testGoodOldJava: 123 = Success(123!)[0m[0m

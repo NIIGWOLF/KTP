@@ -1,0 +1,10 @@
+[0m[[0m[33mwarn[0m] [0m[0mD:\Учеба\2 курс 2 семестр\Кибернетика\ФП\Курсовая\project\sub-project-0\src\main\scala\Classes.scala:77:19: comparing values of types Animal.this.Mammal.type and String using `==` will always yield false[0m
+[0m[[0m[33mwarn[0m] [0m[0m      if ((Mammal == "cat") || (Bird == "parrot") || (Fish == "goldfish")) true[0m
+[0m[[0m[33mwarn[0m] [0m[0m                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mD:\Учеба\2 курс 2 семестр\Кибернетика\ФП\Курсовая\project\sub-project-0\src\main\scala\Classes.scala:77:38: comparing values of types Animal.this.Bird.type and String using `==` will always yield false[0m
+[0m[[0m[33mwarn[0m] [0m[0m      if ((Mammal == "cat") || (Bird == "parrot") || (Fish == "goldfish")) true[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mD:\Учеба\2 курс 2 семестр\Кибернетика\ФП\Курсовая\project\sub-project-0\src\main\scala\Classes.scala:77:60: comparing values of types Animal.this.Fish.type and String using `==` will always yield false[0m
+[0m[[0m[33mwarn[0m] [0m[0m      if ((Mammal == "cat") || (Bird == "parrot") || (Fish == "goldfish")) true[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mthree warnings found[0m

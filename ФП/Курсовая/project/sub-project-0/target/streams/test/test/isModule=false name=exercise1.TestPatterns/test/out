@@ -1,0 +1,26 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestPatterns:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIntToString: 1 = "it is one"[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIntToString: 2 = "it is two"[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIntToString: 3 = "it is three"[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIntToString: 4 = "what's that"[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIsMaxAndMoritz: max = true[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIsMaxAndMoritz: Max = true[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIsMaxAndMoritz: moritz = true[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIsMaxAndMoritz: Moritz = true[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIsMaxAndMoritz: MAX = false[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIsEven: 5 = false[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIsEven: 6 = true[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testWinsA: Rock Rock = Draw[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testWinsA: Rock Paper = Lose[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testWinsA: Rock Scissor = Win[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testWinsA: Paper Rock = Win[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testWinsA: Paper Paper = Draw[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testWinsA: Paper Scissor = Lose[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testWinsA: Scissor Rock = Lose[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testWinsA: Scissor Paper = Win[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testWinsA: Scissor Scissor = Draw[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testExtractMammalWeight: Mammal(90) = 90[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testExtractMammalWeight: Fish = -1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testUpdateFood: Mammal(Meat) = Mammal(Meat)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testUpdateFood: Fish(Meat) = Fish(Plants)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testUpdateFood: Bird(Meat) = Bird(Plants)[0m[0m

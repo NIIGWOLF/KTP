@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestRecursiveData:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testListIntEmpty: Nil = true[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testListIntEmpty: Cons = false[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testListIntHead: Nil = -1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testListIntHead: Cons(1,Nil()) = 1[0m[0m
